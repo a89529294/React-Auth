@@ -1,0 +1,4 @@
+1.run backend with npm run dev 
+2.frontend with nom run start
+3.type 'mongosh' in terminal, then 'use react-auth-db' to switch to that database. 'db.users.deleteMany({})' to clear users.
+4.Supports pw login, email verification, pw reset, google oauth.
