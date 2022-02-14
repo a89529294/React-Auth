@@ -1,0 +1,14 @@
+JWT_SECRET=randomString1
+SENDGRID_API_KEY=yoursendgridapikey
+
+GOOGLE_CLIENT_ID=yourclientid
+GOOGLE_CLIENT_SECRET=yourclientsecret
+
+AWS_USER_POOL_ID=<insert user pool id here>
+AWS_CLIENT_ID=<insert client id here>
+AWS_IDENTITY_POOL_ID=<insert identity pool id here>
+AWS_REGION=<insert aws region here>
+
+PEPPER_STRING=randomString2
+
+// Add this file under back-end under the name .env
