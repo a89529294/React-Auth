@@ -11,4 +11,4 @@ AWS_REGION=<insert aws region here>
 
 PEPPER_STRING=randomString2
 
-// Add this file under back-end under the name .env
+// Add this file under back-end with the name .env
